@@ -29,4 +29,5 @@ Below, we present the confusion matrix to illustrate the promise of the proposed
 
 ## Execution
 
-Please refer to the python (Jupyter) notebook which contains all instructions on how the solution should be executed.
+Please refer to the python (Jupyter) notebook which contains all instructions on how the solution should be executed.<br>
+Additionally, a demo video is provided that indicates how to execute the solution, presents a demo of the model's performance, and presents a discussion of the project in general.
